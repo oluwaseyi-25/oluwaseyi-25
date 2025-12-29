@@ -3,7 +3,7 @@
 * 🎯 A **Mechatronics Engineer** with a passion for **Data**
 * 🔧 Currently diving into technologies like Python, C/C++, Flask, PostgreSQL, OpenCV & more
 * 🛠️ Looking to collaborate on **embedded systems**, **computer vision**, **data-driven apps**, and **automation** projects
-* 🌱 Actively learning: face recognition systems, camera firmware, genetic algorithms, and full data workflows
+* 🌱 Actively learning: face recognition systems, camera firmware, and full data workflows
 
 ---
 
